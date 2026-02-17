@@ -26,16 +26,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Stat Cards Row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davideak22&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideak22&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <em>Dashboard auto-updates daily via GitHub Actions</em>
-</p>
