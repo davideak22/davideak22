@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://instagram.com/davideak_"><img src="https://img.shields.io/badge/Instagram-davideak__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://daviddeak.com"><img src="https://img.shields.io/badge/Website-daviddeak.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=davideak22&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
