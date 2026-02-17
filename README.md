@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+things+that+matter;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://instagram.com/davideak_"><img src="https://img.shields.io/badge/Instagram-davideak__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
